@@ -1,0 +1,25 @@
+* {
+    background-color: darkgrey;
+}
+.top-nav {
+border: solid;
+display: flex;
+justify-content: space-around;
+}
+.img1 {
+float: right;
+border-radius: 50%;
+}
+.main {
+padding: 0 1pc 10pc 0pc;
+margin: 0 1pc 10pc 0pc;
+text-align: left;
+
+
+}
+.bio{
+float: left;
+}
+p {
+overflow: hidden;
+}
